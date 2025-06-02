@@ -48,6 +48,8 @@ Power BI: For building the interactive sales performance dashboard<br/>
 
 CSV File: Raw dataset uploaded for analysis<br/>
 
+Microsoft Excel: For data cleaning and correcting inconsistencies in the data
+
 Steps:<br/>
 1. Data Exploration: Viewing sample records using SELECT *<br/>
 
@@ -80,10 +82,6 @@ https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset<br/>
 2. Missing Data: Potential data quality issues (e.g., missing CustomerIDs or Product info)
 
 3. Static Snapshot: Dashboard reflects a point-in-time analysis; no real-time updates
-
-4. No Demographic Data: Lacks age, gender, or customer preference details
-
-5. Category Granularity: Categories are broad and may hide subcategory insights
 
 
 ### Key Findings from the Analysis
